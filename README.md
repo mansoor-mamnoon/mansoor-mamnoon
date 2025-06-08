@@ -4,4 +4,4 @@
 - 🔍 Interested in Quant, HFT, and ML
 - 🌐 Website coming soon!
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/yourusername)
+📫 Reach me: [LinkedIn](linkedin.com/in/mansoormamnoon)
