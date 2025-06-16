@@ -2,6 +2,6 @@
 - 💻 SWE Intern @ Amazon
 - 📚 Studying Computer Science @ UC Berkeley
 - 🔍 Interested in Quant, HFT, and ML
-- 🌐 Website coming soon!
+- 🌐 Website: https://mansoor-mamnoon.github.io/personal-website/
 
 📫 Reach me: [LinkedIn](https://linkedin.com/in/mansoormamnoon) 
