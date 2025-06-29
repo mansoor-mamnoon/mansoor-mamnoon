@@ -39,13 +39,6 @@ fun_facts:
 
 ---
 
-## 📸 Sneak Peek
-
-<!-- Optional: Replace with actual image or GIF -->
-<img src="https://github.com/mansoor-mamnoon/edge-deployer/assets/your-gif-id" width="100%" alt="Edge Deployer Demo" />
-
----
-
 ## 🧰 Toolbox
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
