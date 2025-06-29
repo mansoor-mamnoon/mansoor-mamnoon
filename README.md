@@ -74,7 +74,7 @@ fun_facts:
 ## 📬 Reach Out
 
 If you’ve built cool systems, have spicy infra memes, or want to collab —  
-**ping me on [LinkedIn](https://linkedin.com/in/mansoormamnoon)** or shoot an email: `mansoormamnoon@gmail.com`.
+**ping me on [LinkedIn](https://linkedin.com/in/mansoormamnoon)** or shoot an email: `mansoormmamnoon@gmail.com`.
 
 ---
 
