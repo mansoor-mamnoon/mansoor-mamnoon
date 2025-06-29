@@ -26,7 +26,6 @@ fun_facts:
   - Built my personal IDE (because why not)
   - Once got stuck debugging a semicolon for 3 hours
   - Favorite debugging tool: ☕ + duck
----
 
 ```
 
