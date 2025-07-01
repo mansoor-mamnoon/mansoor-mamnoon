@@ -17,7 +17,7 @@ _Software Engineer. Infra Optimizer. RL Tinkerer. Tennis Junkie._
 ```yaml
 name: Mansoor Mamnoon
 school: UC Berkeley (CS ‘27)
-current: SWE Intern @ Amazon
+current: SDE Intern @ Amazon
 interests:
   - Systems at scale
   - Quant & HFT infra
