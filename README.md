@@ -3,7 +3,7 @@
 # ⚡ Mansoor Mamnoon
 
 _Software Engineer. Infra Optimizer. RL Tinkerer. Tennis Junkie._  
-👨‍💻 Building stuff that breaks before it scales — and fixing it.
+👨‍💻 Designing systems that scale. Optimizing ones that don’t.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300bfff?style=for-the-badge&logo=github&logoColor=white)](https://mansoor-mamnoon.github.io/personal-website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansoormamnoon)
