@@ -11,7 +11,7 @@ _Software Engineer. Infra Optimizer. RL Tinkerer. Tennis Junkie._
 <a href="https://linkedin.com/in/mansoormamnoon" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://mansoor-mamnoon.github.io/personal-website/assets/Mansoor_Mamnoon_Resume.pdf" style="margin-right: 10px;">
+<a href="https://github.com/mansoor-mamnoon/personal-website/blob/main/assets/Mansoor%20Mamnoon%20Resume.pdf" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
 </a>
 <a href="mailto:mansoormmamnoon@gmail.com">
