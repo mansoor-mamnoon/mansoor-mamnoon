@@ -5,8 +5,12 @@
 _Software Engineer. Infra Optimizer. RL Tinkerer. Tennis Junkie._  
 👨‍💻 Designing systems that scale. Optimizing ones that don’t.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300bfff?style=for-the-badge&logo=github&logoColor=white)](https://mansoor-mamnoon.github.io/personal-website/)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Website-%2300bfff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mansoor-mamnoon.github.io/personal-website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansoormamnoon)
+[![Resume](https://img.shields.io/badge/Resume-PDF-informational?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mansoor-mamnoon.github.io/personal-website/assets/Mansoor_Mamnoon_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansoormmamnoon@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansoor-mamnoon&show_icons=true&theme=default)
+
 
 </div>
 
