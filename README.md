@@ -92,7 +92,7 @@ fun_facts:
 
 ---
 
-## 💬 Ask Me About
+## 💬 Ask Me About 
 
 - Building developer tools from scratch  
 - High-frequency infra & systems optimization  
