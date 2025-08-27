@@ -1,9 +1,9 @@
 <div align="center">
   
-# ⚡ Mansoor Mamnoon
+# ⚡ Mansoor Mamnoon  
 
-_Software Engineer. Infra Optimizer. RL Tinkerer. Tennis Junkie._  
-👨‍💻 Designing systems that scale. Optimizing ones that don’t.
+_Software Engineer • Quant Systems Enthusiast • Infra Optimizer • RL Tinkerer • Tennis Junkie_  
+👨‍💻 Designing **FAANG-scale systems**. Optimizing **HFT pipelines** with sub-µs latency.  
 
 <a href="https://mansoor-mamnoon.github.io/personal-website/" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/Visit%20My%20Website-%2300bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Website"/>
@@ -20,94 +20,109 @@ _Software Engineer. Infra Optimizer. RL Tinkerer. Tennis Junkie._
 
 </div>
 
+---
 
-### 🧠 About Me
+## 🧠 About Me  
 
 ```yaml
 name: Mansoor Mamnoon
 school: UC Berkeley (CS ‘27)
 current: SDE Intern @ Amazon
-interests:
-  - Systems at scale
-  - Quant & HFT infra
-  - RL, compilers & edge compute
+career_goals:
+  - SWE roles @ FAANG-scale companies
+  - Quant / HFT engineering (rare + elite)
+focus:
+  - Low-latency trading systems & infra
+  - Distributed infra, serverless & edge compute
+  - Reinforcement learning, compilers, quant ML
 fun_facts:
-  - Built my personal IDE (because why not)
-  - Once got stuck debugging a semicolon for 3 hours
-  - Favorite debugging tool: ☕ + duck
-
+  - Built my own IDE (Edge Deployer) for serverless APIs
+  - Debugged a missing semicolon for 3 hours straight
+  - Favorite debugging tool: ☕ + rubber duck
 ```
-
-## 🛠️ Currently Building
-
-| 🚀 Project | 📝 Summary | 🧰 Stack |
-|-----------|------------|---------|
-| [**Edge Deployer**](https://github.com/mansoor-mamnoon/edge-deployer) | Drag-and-drop IDE to deploy serverless APIs across Cloudflare, AWS & Vercel | Electron · React · Terraform · TypeScript |
-| [**Offline RL Agent**](https://github.com/mansoor-mamnoon/offline-rl-agent) | Custom Gym env w/ dual obs, reward shaping, and replay buffer logic | PyTorch · Gym · Python |
-| [**Personal Website**](https://mansoor-mamnoon.github.io/personal-website/) | Dark-mode, responsive portfolio with typing effect & command palette | HTML · JS · Flexbox · AOS |
 
 ---
 
+## 🛠️ Currently Building  
 
-## 🧰 Toolbox
+| 🚀 Project             | 📝 Summary                                                                                              | 🧰 Stack |
+|------------------------|--------------------------------------------------------------------------------------------------------|----------|
+| **Order Book Engine**  | High-performance **C++20 LOB engine**; >20M msgs/sec, <1µs latency; includes **snapshot proofing, backtesting, Streamlit UI, containerized analytics w/ GHCR** | C++20 · Python · Docker · Streamlit · Parquet · GitHub Actions |
+| **Offline RL Agent**   | Custom **Gym environment** with dual obs + reward shaping; implemented prioritized replay, CQL vs DQN benchmarks | PyTorch · Gym · Python |
+| **Edge Deployer**      | Drag-and-drop IDE to deploy **serverless APIs** across AWS Lambda@Edge, Cloudflare Workers & Vercel; integrated Terraform & Monaco Editor | Electron · React · Terraform · TypeScript |
+| **Personal Website**   | SEO-optimized portfolio with dark mode, typing effect, AOS animations, command palette, badges          | HTML · CSS · JS |
 
-### 🧠 Machine Learning & RL
+---
+
+## 🧰 Toolbox  
+
+### 🧠 Machine Learning & RL  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-000000?style=flat&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20Gym-000000?style=flat&logo=openai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-### ⚙️ Infrastructure & DevOps
+### ⚙️ Infrastructure & DevOps  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-512BD4?style=flat&logo=pulumi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=orange)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GHCR](https://img.shields.io/badge/GHCR-181717?style=flat&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-A42E2B?style=flat&logo=gitlab&logoColor=white)
 
-### 💻 Programming Languages
+### 💻 Programming Languages  
+![C++](https://img.shields.io/badge/C++20-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Scheme](https://img.shields.io/badge/Scheme-4EAA25?style=flat&logo=gnu&logoColor=white)
 
-### 🌐 Frontend / Devtools
+### 🌐 Frontend / Devtools  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=electron&logoColor=white)
 ![Monaco Editor](https://img.shields.io/badge/Monaco%20Editor-1E90FF?style=flat&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white)
-
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
-## 🏓 Outside Code
+## 🏓 Outside Code  
 
 - 🎾 Catch me serving aces on the tennis court  
-- 🎙️ Currently learning: low-latency pipelines for quant systems  
-- 🧪 Reading: _“Designing Data-Intensive Applications”_ + _“Deep RL Hands-On”_
+- 🎙️ Learning: low-latency pipelines for quant/HFT systems  
+- 🧪 Reading: _“Designing Data-Intensive Applications”_ + _“Deep RL Hands-On”_  
 
 ---
 
-## 💬 Ask Me About 
+## 💬 Ask Me About  
 
-- Building developer tools from scratch  
-- High-frequency infra & systems optimization  
-- Offline RL and reward shaping  
-- Terraform, Pulumi, AWS, and PyGame
-
----
-
-## 📬 Reach Out
-
-If you’ve built cool systems, have spicy infra memes, or want to collab —  
-**ping me on [LinkedIn](https://linkedin.com/in/mansoormamnoon)** or shoot an email: `mansoormmamnoon@gmail.com`.
+- Building **developer tools** from scratch  
+- **High-frequency infra** & systems optimization  
+- **Offline RL** and reward shaping  
+- **Terraform, Pulumi, AWS**, and PyGame  
 
 ---
 
-## ✨ Motto
+## 📬 Reach Out  
 
-> “Don’t just ship it. Ship it fast, ship it clean, ship it again.”
+If you’ve built **cool systems**, have **spicy infra memes**, or want to **collab** —  
+**ping me on [LinkedIn](https://linkedin.com/in/mansoormamnoon)** or shoot an email: `mansoormmamnoon@gmail.com`.  
+
+---
+
+## ✨ Motto  
+
+> “Don’t just ship it. Ship it fast, ship it clean, ship it again.”  
+
+---
+
+🔎 **SEO Keywords**: Mansoor Mamnoon · UC Berkeley CS · FAANG SWE · Quant Engineer · High Frequency Trading Infrastructure · Low Latency Systems · C++20 · AWS · Docker · Terraform · Pulumi · GitHub Actions · Streamlit · Order Book Engine · Offline RL · PyTorch · Edge Computing · Distributed Systems · HPC · Compilers · Quant Finance · FAANG Software Engineer · HFT Roles · SWE Intern Amazon.  
