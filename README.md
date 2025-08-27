@@ -30,14 +30,13 @@ school: UC Berkeley (CS ‘27)
 current: SDE Intern @ Amazon
 career_goals:
   - SWE roles @ FAANG-scale companies
-  - Quant / HFT engineering (rare + elite)
+  - Quant / HFT engineering
 focus:
   - Low-latency trading systems & infra
   - Distributed infra, serverless & edge compute
   - Reinforcement learning, compilers, quant ML
 fun_facts:
   - Built my own IDE (Edge Deployer) for serverless APIs
-  - Debugged a missing semicolon for 3 hours straight
   - Favorite debugging tool: ☕ + rubber duck
 ```
 
