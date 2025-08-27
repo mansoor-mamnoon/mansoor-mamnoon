@@ -123,5 +123,3 @@ If you’ve built **cool systems**, have **spicy infra memes**, or want to **col
 > “Don’t just ship it. Ship it fast, ship it clean, ship it again.”  
 
 ---
-
-🔎 **SEO Keywords**: Mansoor Mamnoon · UC Berkeley CS · FAANG SWE · Quant Engineer · High Frequency Trading Infrastructure · Low Latency Systems · C++20 · AWS · Docker · Terraform · Pulumi · GitHub Actions · Streamlit · Order Book Engine · Offline RL · PyTorch · Edge Computing · Distributed Systems · HPC · Compilers · Quant Finance · FAANG Software Engineer · HFT Roles · SWE Intern Amazon.  
