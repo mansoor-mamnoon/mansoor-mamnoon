@@ -53,6 +53,15 @@ fun_facts:
 
 ---
 
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mansoor-mamnoon&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoor-mamnoon&layout=compact&theme=radical" height="180" />
+
+</div>
+
 ## 🧰 Toolbox  
 
 ### 🧠 Machine Learning & RL  
