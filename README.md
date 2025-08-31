@@ -129,6 +129,6 @@ If you’ve built **cool systems**, have **spicy infra memes**, or want to **col
 </p>
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mansoor-mamnoon/mansoor-mamnoon/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mansoor-mamnoon/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
