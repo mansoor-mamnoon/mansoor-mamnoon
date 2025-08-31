@@ -123,3 +123,12 @@ If you’ve built **cool systems**, have **spicy infra memes**, or want to **col
 > “Don’t just ship it. Ship it fast, ship it clean, ship it again.”  
 
 ---
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=brandonconcepcion&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/brandonconcepcion/brandonconcepcion/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
