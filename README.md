@@ -94,7 +94,7 @@ fun_facts:
 
 ---
 
-## 🏓 Outside Code  
+## 🏓 Outside Code   
 
 - 🎾 Catch me serving aces on the tennis court  
 - 🎙️ Learning: low-latency pipelines for quant/HFT systems  
