@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚡ Mansoor Mamnoon  
+# ⚡ Mansoor Mamnoon   
 
 _Software Engineer • Quant Systems Enthusiast • Infra Optimizer • RL Tinkerer • Tennis Junkie_  
 👨‍💻 Designing **FAANG-scale systems**. Optimizing **HFT pipelines** with sub-µs latency.  
