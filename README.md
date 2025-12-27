@@ -26,8 +26,9 @@ _Software Engineer • Quant Systems Enthusiast • Infra Optimizer • RL Tinke
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansoor-mamnoon&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img src="https://raw.githubusercontent.com/mansoor-mamnoon/mansoor-mamnoon/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 
