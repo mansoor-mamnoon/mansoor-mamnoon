@@ -23,12 +23,9 @@ _Software Engineer • Quant Systems Enthusiast • Infra Optimizer • RL Tinke
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Systems+Engineer+%7C+Low-Latency+Infra;C%2B%2B+%7C+Distributed+Systems+%7C+RL;UC+Berkeley+CS+%E2%80%9827" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mansoor-mamnoon/mansoor-mamnoon/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=mansoor-mamnoon&theme=transparent&hide_border=true" />
 </p>
-
 
 
 
