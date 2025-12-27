@@ -27,6 +27,29 @@ _Software Engineer • Quant Systems Enthusiast • Infra Optimizer • RL Tinke
   <img src="https://streak-stats.demolab.com?user=mansoor-mamnoon&theme=transparent&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansoor-mamnoon&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+
+![Metrics](https://metrics.lecoq.io/mansoor-mamnoon)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mansoor-mamnoon&theme=github-compact)
+
+![Pacman](https://github.com/abozanona/pacman-contribution-graph/raw/main/demo.svg)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mansoor-mamnoon&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,go,aws,docker,kubernetes,terraform,pytorch,react" />
+</p>
+
+
+
 
 
 ## 🧠 About Me  
