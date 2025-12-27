@@ -19,39 +19,6 @@ _Software Engineer • Quant Systems Enthusiast • Infra Optimizer • RL Tinke
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Systems+Engineer+%7C+Low-Latency+Infra;C%2B%2B+%7C+Distributed+Systems+%7C+RL;UC+Berkeley+CS+%E2%80%9827" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mansoor-mamnoon&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansoor-mamnoon&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-
-![Metrics](https://metrics.lecoq.io/mansoor-mamnoon)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mansoor-mamnoon&theme=github-compact)
-
-![Pacman](https://github.com/abozanona/pacman-contribution-graph/raw/main/demo.svg)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mansoor-mamnoon&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,go,aws,docker,kubernetes,terraform,pytorch,react" />
-</p>
-
-
-
-
-
 ## 🧠 About Me  
 
 ```yaml
