@@ -19,6 +19,11 @@ _Software Engineer • Quant Systems Enthusiast • Infra Optimizer • RL Tinke
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Systems+Engineer+%7C+Low-Latency+Infra;C%2B%2B+%7C+Distributed+Systems+%7C+RL;UC+Berkeley+CS+%E2%80%9827" />
+</p>
+
+
 ## 🧠 About Me  
 
 ```yaml
