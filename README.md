@@ -24,6 +24,13 @@ _Software Engineer • Quant Systems Enthusiast • Infra Optimizer • RL Tinke
 </p>
 
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansoor-mamnoon&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+</p>
+
+
+
 ## 🧠 About Me  
 
 ```yaml
