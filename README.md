@@ -118,7 +118,7 @@ If you’ve built **cool systems**, have **spicy infra memes**, or want to **col
 
 ---
 
-## ✨ Motto  
+## ✨ Motto   
 
 > “Don’t just ship it. Ship it fast, ship it clean, ship it again.”  
 
