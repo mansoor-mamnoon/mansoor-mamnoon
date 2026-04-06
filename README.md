@@ -2,10 +2,14 @@
   
 # ⚡ Mansoor Mamnoon   
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=longluo&style=flat-square&color=blue" alt=""></p>
-
 _Software Engineer • Quant Systems Enthusiast • Infra Optimizer • RL Tinkerer • Tennis Junkie_  
-👨‍💻 Designing **FAANG-scale systems**. Optimizing **HFT pipelines** with sub-µs latency.  
+👨‍💻 Designing **FAANG-scale systems**. Optimizing **HFT pipelines** with sub-µs latency. 
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mansoor-mamnoon&show_icons=true&theme=merko" alt="Mansoor Mamnoon" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mansoor-mamnoon&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Mansoor Mamnoon" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoor-mamnoon&langs_count=12&layout=compact&theme=vue"</p>
 
 <a href="https://mansoor-mamnoon.github.io/personal-website/" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/Visit%20My%20Website-%2300bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Website"/>
