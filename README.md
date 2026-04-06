@@ -2,6 +2,8 @@
   
 # ⚡ Mansoor Mamnoon   
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=longluo&style=flat-square&color=blue" alt=""></p>
+
 _Software Engineer • Quant Systems Enthusiast • Infra Optimizer • RL Tinkerer • Tennis Junkie_  
 👨‍💻 Designing **FAANG-scale systems**. Optimizing **HFT pipelines** with sub-µs latency.  
 
