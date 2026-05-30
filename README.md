@@ -1,6 +1,6 @@
 # Mansoor Mamnoon
 
-**Incoming SWE Intern @ Databricks · UC Berkeley EECS Honors, Class of 2027**
+**SWE Intern @ Databricks · UC Berkeley EECS Honors, Class of 2027**
 
 Software engineer focused on distributed infrastructure, networking, low-latency C++, and ML security tooling.
 
@@ -10,7 +10,7 @@ Software engineer focused on distributed infrastructure, networking, low-latency
 
 ## Background
 
-- **Databricks Traffic Platform** — incoming SWE intern focused on networking, security, and performance infrastructure in Go/Rust.
+- **Databricks Traffic Platform** — SWE intern focused on networking, security, and performance infrastructure in Go/Rust.
 - **Amazon SDE Intern** — shipped real-time IoT infrastructure processing 10K+ events/min across 100+ sensors with sub-second dashboard latency.
 - **UC Berkeley EECS Honors** — CS, GPA 3.984; coursework in OS, compilers, databases, algorithms, ML, and computer architecture.
 - **CS 61C Senior Mentor & Content Lead** — wrote worksheets and taught RISC-V, C, caching, pipelining, and memory hierarchy.
