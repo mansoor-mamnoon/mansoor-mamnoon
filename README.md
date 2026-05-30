@@ -62,6 +62,11 @@ ML / LLM Security           MCP · prompt injection defense · taint-aware polic
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansoor-mamnoon&show_icons=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=mansoor-mamnoon&theme=transparent)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mansoor-mamnoon&theme=flat&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mansoor-mamnoon&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
 Open to 2027 new-grad roles in systems/infrastructure, backend/platform, networking, low-latency, and ML security infrastructure.
 
 `mansoormmamnoon@berkeley.edu` · [mansoor-mamnoon.github.io](https://mansoor-mamnoon.github.io/) · [linkedin.com/in/mansoormamnoon](https://linkedin.com/in/mansoormamnoon)
