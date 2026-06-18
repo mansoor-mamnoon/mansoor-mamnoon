@@ -6,8 +6,6 @@ Software engineer focused on distributed infrastructure, networking, low-latency
 
 [Portfolio](https://mansoor-mamnoon.github.io/) · [Resume](https://mansoor-mamnoon.github.io/resume.html) · [LinkedIn](https://linkedin.com/in/mansoormamnoon) · [Email](mailto:mansoormmamnoon@berkeley.edu)
 
-<img src="https://img.shields.io/github/stars/mansoor-mamnoon?color=%23f65b5b&labelColor=%23101415&style=for-the-badge">
-
 ---
 
 ## Background
