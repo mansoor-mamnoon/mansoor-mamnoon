@@ -14,7 +14,7 @@
 ---
 
 **Databricks Traffic Platform SWE Intern** · Previously **Amazon SDE Intern**  
-**UC Berkeley CS '27** · EECS Honors Program · GPA 3.97
+**UC Berkeley CS '27** · EECS Honors Program · GPA 3.973
 
 I build performance-sensitive infrastructure, with a focus on Linux networking, kernel diagnostics, and low-latency systems.
 
