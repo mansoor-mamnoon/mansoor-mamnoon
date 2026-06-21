@@ -1,67 +1,88 @@
+<div align="center">
+
 # Mansoor Mamnoon
 
-**SWE Intern @ Databricks · UC Berkeley EECS Honors, Class of 2027**
+**Systems Infrastructure · Networking · Low-Latency C++**
 
-Software engineer focused on distributed infrastructure, networking, low-latency C++, and ML security tooling.
+[![Portfolio](https://img.shields.io/badge/Portfolio-mansoor--mamnoon.github.io-black?style=flat-square)](https://mansoor-mamnoon.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-555555?style=flat-square)](https://mansoor-mamnoon.github.io/resume.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mansoormamnoon-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mansoormamnoon)
+[![Email](https://img.shields.io/badge/Email-mansoormmamnoon%40berkeley.edu-EA4335?style=flat-square&logo=gmail)](mailto:mansoormmamnoon@berkeley.edu)
 
-[Portfolio](https://mansoor-mamnoon.github.io/) · [Resume](https://mansoor-mamnoon.github.io/resume.html) · [LinkedIn](https://linkedin.com/in/mansoormamnoon) · [Email](mailto:mansoormmamnoon@berkeley.edu)
-
----
-
-## Background
-
-- **Databricks Traffic Platform** — SWE intern focused on networking, security, and performance infrastructure in Go/Rust.
-- **Amazon SDE Intern** — shipped real-time IoT infrastructure processing 10K+ events/min across 100+ sensors with sub-second dashboard latency.
-- **UC Berkeley EECS Honors** — CS, GPA 3.973; coursework in OS, compilers, databases, algorithms, ML, and computer architecture.
-- **CS 61C Senior Mentor & Content Lead** — wrote worksheets and taught RISC-V, C, caching, pipelining, and memory hierarchy.
+</div>
 
 ---
 
-## Featured Systems
+**Databricks Traffic Platform SWE Intern** · Previously **Amazon SDE Intern**  
+**UC Berkeley CS '27** · EECS Honors Program · GPA 3.97
 
-### [LLMFirewall](https://github.com/mansoor-mamnoon/prompt-injection-lab)
-MCP security proxy enforcing taint-aware least privilege for tool-using LLM agents.
-
-- Treats prompt injection as a control-flow and policy-enforcement problem across tool calls.
-- Seven-layer defense pipeline: capability gating, taint policy, secret-flow guard, argument scanning/sanitization, and output injection checks.
-- 4,200+ local eval cases; attack success reduced from 100% to 16% in baseline passthrough setting.
-
-**Stack:** Python · FastAPI · MCP Protocol · NumPy · pytest
+I build performance-sensitive infrastructure, with a focus on Linux networking, kernel diagnostics, and low-latency systems.
 
 ---
 
-### [C++20 Limit Order Book + Matching Engine](https://github.com/mansoor-mamnoon/limit-order-book)
-Exchange-style matching engine and quantitative replay pipeline.
+## Projects
 
-- Price-time priority matching with FIFO fairness, deterministic replay, snapshot/resume recovery, and strategy tooling (VWAP, TWAP, POV, Iceberg).
-- Performance work: slab allocators, branch reduction, cache-hot layouts, CPU pinning.
-- 20M+ msgs/sec, p50 ≈ 0.04µs (synthetic benchmark; hardware spec and harness in README).
+### [vxlan-tracer](https://github.com/mansoor-mamnoon/vxlan-tracer) — eBPF VXLAN MTU blackhole detector
 
-**Stack:** C++20 · Python · Docker · Streamlit · GitHub Actions
+When an overlay MTU or ICMP path is misconfigured, small requests may work while larger transfers stall, fragment, or repeatedly retransmit. This tool correlates kernel signals to explain why.
+
+- Identifies likely MTU blackholes by correlating fragmentation and ICMP Packet Too Big signals from TC and kprobe programs, without changing application code or network MTU settings
+- Reproduces successful path-MTU discovery, ICMP suppression, outer fragmentation, and MTU-mismatch scenarios in network-namespace integration tests
+- Validated on amd64 and arm64 across Linux 5.15, 6.8, and 6.10 using CO-RE; auto-detects VXLAN UDP ports via rtnetlink, including standard port 4789 and Flannel port 8472
+
+`Go` `C` `eBPF` `Linux TC` `CO-RE`
 
 ---
 
-### [Edge Deployer](https://github.com/mansoor-mamnoon/edge-deployer)
-Zero-config desktop IDE for deploying JS/TS APIs across Cloudflare, AWS, and Vercel.
+### [limit-order-book](https://github.com/mansoor-mamnoon/limit-order-book) — C++20 matching engine
 
-- Monaco editor, generated infrastructure-as-code, real-time deploy logs, deployment history, and provider-specific environment configuration.
-- Built to remove dashboard/CLI context switching from multi-cloud serverless deployment.
+Exchange-style order matching engine built for throughput and correctness.
 
-**Stack:** TypeScript · Electron · React · Pulumi · Monaco Editor · AWS · Cloudflare · Vercel
+- Implements price-time priority, IOC, FOK, POST_ONLY, self-trade prevention, cancellation, and modification using slab allocation and side-specialized matching paths
+- **20.7M order commands/sec** in a single-threaded, in-memory synthetic benchmark; harness, workload configuration, and raw CSV results included in the repository
+- Includes deterministic replay and execution-strategy simulation for VWAP, TWAP, POV, and Iceberg orders
+
+`C++20` `Python` `Docker` `GitHub Actions`
+
+---
+
+### [LLMFirewall](https://github.com/mansoor-mamnoon/LLMFirewall) — prompt-injection defense for tool-using LLM agents
+
+MCP security proxy enforcing capability and policy-based controls across tool calls.
+
+- Seven enforcement layers: allowlisting, lookalike detection, argument injection scanning, argument sanitization, secret-flow protection, taint policy, and output-injection checks
+- The capability gate categorically prevents retrieved documents from authorizing write-side-effect tools regardless of detection score; adding the gate on top of detection reduces ASR from 73% to 0% on tool-exfiltration attacks
+- Evaluated on 4,200+ cases spanning direct injection, indirect RAG injection, tool-output injection, and multi-turn escalation; full pipeline reduces ASR from **100% to 48%** at a **0.6% false-positive rate** on a 750-case baseline comparison; p95 in-process latency 0.15ms, single-thread, no GPU
+
+`Python` `FastAPI` `MCP` `NumPy` `pytest`
+
+---
+
+### [codeglance](https://github.com/mansoor-mamnoon/codeglance) — repo orientation CLI
+
+[![GitHub stars](https://img.shields.io/github/stars/mansoor-mamnoon/codeglance?style=flat-square)](https://github.com/mansoor-mamnoon/codeglance/stargazers)
+
+`npx codeglance` — summarizes what a repository contains, how to run it, and where to start reading. No global install or configuration required.
+
+Detects 50+ frameworks, build systems, and infrastructure tools across Node.js, Python, Go, Rust, C/C++, Java, and Terraform projects from local manifest files. No API keys or LLM calls.
+
+`TypeScript` `Node.js`
 
 ---
 
 ## Technical Focus
 
 ```
-Systems / Low-latency       C++20 · C · memory allocators · cache optimization · replay systems
-Distributed Infrastructure  Go · Rust · networking · control planes · performance
-Backend & Cloud             Python · TypeScript · AWS · Docker · Pulumi · Terraform
-ML / LLM Security           MCP · prompt injection defense · taint-aware policies · agent tooling
+Languages       C++ · Go · Rust · Python · TypeScript · C
+Systems         Linux · eBPF · TCP/IP · VXLAN · network namespaces · perf
+Infrastructure  AWS · GCP · Kubernetes · Docker · Terraform
+Security        MCP · prompt-injection defense · capability enforcement
 ```
 
 ---
 
-Open to 2027 new-grad roles in systems/infrastructure, backend/platform, networking, low-latency, and ML security infrastructure.
+<div align="center">
 
-`mansoormmamnoon@berkeley.edu` · [mansoor-mamnoon.github.io](https://mansoor-mamnoon.github.io/) · [linkedin.com/in/mansoormamnoon](https://linkedin.com/in/mansoormamnoon)
+**Seeking 2027 new-grad roles in systems infrastructure, networking, and performance engineering.**
+
+</div>
