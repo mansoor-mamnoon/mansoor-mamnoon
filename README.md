@@ -2,7 +2,7 @@
 
 # Mansoor Mamnoon
 
-**Systems Infrastructure · Networking · Low-Latency C++**
+**Systems Infrastructure · Networking · Low-Latency C++ · ML Systems**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mansoor--mamnoon.github.io-black?style=flat-square)](https://mansoor-mamnoon.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-555555?style=flat-square)](https://mansoor-mamnoon.github.io/resume.html)
@@ -52,9 +52,21 @@ MCP security proxy enforcing capability and policy-based controls across tool ca
 
 - Seven enforcement layers: allowlisting, lookalike detection, argument injection scanning, argument sanitization, secret-flow protection, taint policy, and output-injection checks
 - The capability gate categorically prevents retrieved documents from authorizing write-side-effect tools regardless of detection score; adding the gate on top of detection reduces ASR from 73% to 0% on tool-exfiltration attacks
-- Evaluated on 4,200+ cases spanning direct injection, indirect RAG injection, tool-output injection, and multi-turn escalation; full pipeline reduces ASR from **100% to 48%** at a **0.6% false-positive rate** on a 750-case baseline comparison; p95 in-process latency 0.15ms, single-thread, no GPU
+- Evaluated on 4,200+ cases spanning direct injection, indirect RAG injection, tool-output injection, and multi-turn escalation; full pipeline reduces ASR from **100% to 48%** at a **0.6% false-positive rate**; p95 in-process latency 0.15ms, single-thread
 
 `Python` `FastAPI` `MCP` `NumPy` `pytest`
+
+---
+
+### [offline-rl-lab](https://github.com/mansoor-mamnoon/offline-rl-agent) — safety-constrained offline RL benchmark
+
+Standard offline RL optimizes for expected return on benchmark datasets and ignores whether the learned policy is safe to deploy. This project focuses on that gap.
+
+- Six algorithms from scratch (BC, CQL, IQL, TD3+BC, Decision Transformer, AWAC) with consistent interfaces and reproducible benchmark results across 3 seeds
+- Offline policy evaluation via FQE, Weighted IS, and Doubly Robust estimators with bootstrap confidence intervals; safety metrics include CVaR-5%, SLO violation rate, OOD action rate, and catastrophic failure rate
+- Runtime policy shield with constraint critic and failure explorer for causal analysis of policy failures; built on a 32-dimensional traffic routing simulator with SLO constraints and incident modeling
+
+`Python` `PyTorch` `Streamlit`
 
 ---
 
@@ -75,14 +87,15 @@ Detects 50+ frameworks, build systems, and infrastructure tools across Node.js, 
 ```
 Languages       C++ · Go · Rust · Python · TypeScript · C
 Systems         Linux · eBPF · TCP/IP · VXLAN · network namespaces · perf
-Infrastructure  AWS · GCP · Kubernetes · Docker · Terraform
-Security        MCP · prompt-injection defense · capability enforcement
+Infrastructure  AWS · GCP · Kubernetes · Docker · Terraform · gRPC
+ML / Agents     offline RL · LLM agents · MCP · OPE · safety constraints
+Security        prompt-injection defense · capability enforcement · red-teaming
 ```
 
 ---
 
 <div align="center">
 
-**Seeking 2027 new-grad roles in systems infrastructure, networking, and performance engineering.**
+**Seeking 2027 new-grad roles in systems infrastructure, networking, low-latency systems, ML systems, and backend platform engineering.**
 
 </div>
