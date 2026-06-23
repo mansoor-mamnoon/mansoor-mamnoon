@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mansoormamnoon-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mansoormamnoon)
 [![Email](https://img.shields.io/badge/Email-mansoormmamnoon%40berkeley.edu-EA4335?style=flat-square&logo=gmail)](mailto:mansoormmamnoon@berkeley.edu)
 
-</div>
+</div> 
 
 ---
 
